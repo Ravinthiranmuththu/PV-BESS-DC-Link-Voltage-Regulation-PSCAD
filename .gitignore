@@ -1,0 +1,17 @@
+# PSCAD generated compilation folders and simulation output
+*.gf132/
+*.gf81/
+*.if18/
+*.emt/
+*.out
+*.inf
+*.log
+*.map
+*.obj
+*.o
+*.exe
+*.dll
+*.bak
+*.tmp
+__pycache__/
+.DS_Store
